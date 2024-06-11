@@ -1,4 +1,6 @@
-## Hi there 👋
+## Moin, I'm Björn. 
+
+In English, I replace the umlaut ö in my name with oe. So, it's Bjoern, not Bjorn. For signing birthday cards I use Björn.
 
 <!--
 **BHFock/BHFock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
