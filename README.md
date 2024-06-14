@@ -1,8 +1,6 @@
 ## Moin, I'm Björn. 
 
-In English, I replace the umlaut ö in my name with oe. So, it's Bjoern, not Bjorn. For signing birthday cards I use Björn.
-
-No problem if you don't know how to pronounce Bjoern and call me Bjorn instead.
+In English, I replace the umlaut ö in my name with oe. So, it's [Bjoern](http://ipa-reader.xyz/?text=%CB%88bj%C5%93%CA%81n&voice=Joanna) - not Bjorn. Birthday cards I sign as Björn.
 
 <!--
 **BHFock/BHFock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
