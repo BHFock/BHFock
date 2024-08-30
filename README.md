@@ -1,4 +1,6 @@
-In English, I replace the umlaut ö in my name Björn with oe. So, it's [Bjoern](http://ipa-reader.xyz/?text=%CB%88bj%C5%93%CA%81n&voice=Joanna) - not Bjorn. Birthday cards, I sign as Björn.
+**How do I write and pronounce my name?**
+
+In English, I replace the umlaut ö in my name Björn with oe. So, it's [Bjoern](http://ipa-reader.xyz/?text=%CB%88bj%C5%93%CA%81n&voice=Joanna) - not Bjorn. The linked audio recording provides a pronunciation help. Birthday cards, I sign as Björn.
 
 <!--
 **BHFock/BHFock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
