@@ -1,6 +1,10 @@
 **How do I write and pronounce my name?**
 
-In English, I replace the umlaut ö in my name Björn with oe. So, it's [Bjoern](https://www.howtopronounce.com/german/björn) - not Bjorn. The linked audio recording provides a pronunciation help. Birthday cards, I sign as Björn.
+In English, I replace the umlaut ö in my name Björn with oe. So, it's [Bjoern](https://www.howtopronounce.com/german/björn) - not Bjorn. The linked audio recording helps with pronunciation. On birthday cards, I sign as Björn.
+
+**Can you copy something from here?**
+
+Yes: `repo-grep` — an Emacs tool for fast, project-wide grep with one keystroke. Built for codebases with many folders or repos. Searches from the symbol under the cursor. No project setup required.
 
 <!--
 **BHFock/BHFock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
