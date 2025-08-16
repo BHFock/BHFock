@@ -9,7 +9,7 @@ Say a manager wants you to move from point A to point B. They could just tell yo
 The crocodile is about *control through fear* instead of direct orders. German unions talk about this a lot.
 
 The team got into it:
-*"So the pistol is better? At least they don't want to shoot you."* *"But the crocodile wants to eat you!"*
+*"So the pistol is better? At least they don't want to shoot you. But the crocodile wants to eat you!"*
 
 I said there's a third way: *"Skip the crocodile—put free food at B instead."*
 
