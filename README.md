@@ -6,7 +6,7 @@ Someone asked this in a team chat once. I told them about a German management st
 
 Say a manager wants you to move from point A to point B. They could just tell you to do it (*the pistol approach*). Or they could put a crocodile at point A. You'll move to B on your own.
 
-The crocodile is about control through fear instead of direct orders. German unions talk about this a lot.
+The crocodile is about *control through fear* instead of direct orders. German unions talk about this a lot.
 
 The team got into it:
 *"So the pistol is better? At least they don't want to shoot you. But the crocodile wants to eat you!"*
