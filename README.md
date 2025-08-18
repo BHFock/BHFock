@@ -4,7 +4,7 @@
 
 Someone asked this in a team chat once. I told them about a German management story I'd heard.
 
-Say a manager wants you to move from point A to point B. They could just tell you to do it (*the pistol approach*). Or they could put a crocodile at point A. You'll move to B on your own.
+Say a manager wants you to move from point A to point B. They could give you a direct command (*the pistol approach*). Or they could put a crocodile at point A. You'll move to B on your own.
 
 The crocodile is about *control through fear* instead of direct orders. German unions talk about this a lot.
 
