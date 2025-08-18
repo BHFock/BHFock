@@ -1,1 +1,1 @@
-In English, I replace the umlaut ö in my name Björn with oe. So, it's [Bjoern](https://www.howtopronounce.com/german/björn) - not Bjorn. The linked audio recording helps with pronunciation. On birthday cards, I sign as Björn
+In English, I replace the umlaut ö in my name Björn with oe. So, it's [Bjoern](https://www.howtopronounce.com/german/björn) - not Bjorn. The linked audio recording helps with pronunciation. On birthday cards, I sign as Björn.
