@@ -21,4 +21,4 @@ It sits on my desk now. And here on GitHub.
 
 📚 The original German story: [Wie Krokodile Vertrauen schaffen – COGITO Institut für Autonomieforschung](https://cogito-institut.de/?page_id=45)
 
-🫖 Workplace note: No actual crocodiles in the front pond. And we do get tea and biscuits sometimes.
+🫖 Former workplace note: No actual crocodiles in the office pond. And we did get tea and biscuits sometimes.
